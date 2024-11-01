@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "599848128669",
+    "project_id": "pushnotiproject-a21ed",
+    "storage_bucket": "pushnotiproject-a21ed.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599848128669:android:bba0f2c91e855e4b3b8474",
+        "android_client_info": {
+          "package_name": "com.example.dzheglo_flutter_push_notifications"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9qkWyw5EpRuHUIpD-eCHNXugZ_7WN69E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
